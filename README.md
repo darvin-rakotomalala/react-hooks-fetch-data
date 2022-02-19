@@ -15,11 +15,11 @@ Dans ce projet nous allons voir quelques exemples de récupération des données
 
 ---
 
-1. Data fetching with react hooks
-2. Trigger a hook programmatically/manually
-3. Loading indicator with react hooks
-4. Error handling with react hooks
-5. Fetching data with forms and react
+1. Récupération de données avec react hooks
+2. Déclencher un hook par programme/manuellement
+3. Indicateur de chargement avec react hooks
+4. Gestion des erreurs avec react hooks
+5. Récupérer des données avec des formulaires et react
 
 ### Exécuter et tester l'App
 
